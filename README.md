@@ -48,8 +48,7 @@ Faço parte ativamente da **CZBR**, a maior comunidade do Brasil dedicada ao mod
 
 Você pode me encontrar e entrar em contato através do meu Instagram:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](**[https://instagram.com/rdurooon]**)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rdurooon)
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RuanDuron&color=blue" alt="Contador de Visualizações" />
