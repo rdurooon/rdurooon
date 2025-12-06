@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/RuanDuron/RuanDuron/assets/81812163/b70f0312-32a7-471a-8e27-a06806f1406e" alt="Banner de Olá" width="600"/>
   
   # Olá! Me chamo Ruan Durão, mas pode me chamar de RDuron ou apenas de RD 👋
   
