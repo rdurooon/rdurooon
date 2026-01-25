@@ -9,7 +9,7 @@
 
 ### 🎓 Sobre Mim
 
-Sou **acadêmico de Engenharia de Computação**, atualmente no 4º semestre da faculdade. Como estudante, estou focado em construir uma base sólida em ciência da computação e engenharia de software, explorando diversas áreas do desenvolvimento.
+Sou **acadêmico de Engenharia de Computação**, atualmente no 5º semestre da faculdade. Como estudante, estou focado em construir uma base sólida em ciência da computação e engenharia de software, explorando diversas áreas do desenvolvimento.
 
 Gosto especialmente de trabalhar em projetos que envolvem:
 * **Desenvolvimento Web Completo** (Front-end e Back-end).
