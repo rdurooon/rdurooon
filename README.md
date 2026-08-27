@@ -2,7 +2,7 @@
   
   # Olá! Me chamo Ruan Durão (RDuron) 👋
   
-  <p>Acadêmico de Engenharia de Computação (5º Semestre) | Desenvolvedor Full Stack & IoT</p>
+  <p>Acadêmico de Engenharia de Computação (6º Semestre) | Desenvolvedor Full Stack & IoT</p>
 </div>
 
 ---
@@ -13,7 +13,7 @@ Atualmente focado em construir uma base sólida em Engenharia, com ênfase em si
 
 * **[LetsBus](https://github.com/rdurooon/lets-bus):** Projeto focado em mobilidade urbana relacionado a transporte público (3º semestre).
 * **[SIA / Mini Estufa Inteligente](https://github.com/rdurooon/mini-estufa-inteligente):** Automação da agricultura com monitoramento de sensores (4º semestre).
-* **[SEAV](https://github.com/rdurooon/seav):** Sistema Embarcado de Acesso Veicular (5º semestre - em andamento).
+* **[SEAV](https://github.com/rdurooon/seav):** Sistema Embarcado de Acesso Veicular (5º semestre).
 
 ---
 
@@ -24,7 +24,7 @@ Atualmente focado em construir uma base sólida em Engenharia, com ênfase em si
 | **Linguagens** | Python, C++, Java, SQL |
 | **Microcontroladores** | ESP32, ESP32-CAM, Arduino (Uno/Nano) |
 | **Web & Infra** | Flask, Docker, Nginx, Cloudflare |
-| **Bancos de Dados** | MySQL |
+| **Bancos de Dados** | MySQL, PostgresSQL |
 | **Sistemas Operacionais** | Linux, Windows |
 
 ---
